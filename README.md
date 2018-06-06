@@ -6,7 +6,13 @@ Principal component analysis (PCA) is a statistical procedure that uses an ortho
 
 1. Download the code in the zip format from "Clone or Download" button above
 2. Decompress the file in the desktop
-3. Open extracted R package in R Studio
+4. Open the file “PCAplot.Rproj” from extracted folder names "PCA-master" in RStudio
+5.Then source the whole code in the script of the RStudio.
+6. Call the main function ” PCA_Plot” by providing the gene data file path and the meta data file path as arguments in the PCA_Plot function and press enter
+
+## Results
+
+Obtained a PCA Plot showing correlation between a set of samples taken for different genes on the basis of the time point
 
 ## License
 
