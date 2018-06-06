@@ -12,7 +12,7 @@ Principal component analysis (PCA) is a statistical procedure for reduction of d
 
 ## Results
 
-Obtained a PCA Plot showing correlation between a set of samples taken for different genes on the basis of the time point. Following are the screenshots of the our test results:
+Obtained a PCA Plot showing correlation between a set of samples taken for different genes on the basis of the time point. Following is the screenshot of the our test results:
 
 ![Test Result Screenshot](https://i.imgur.com/1ibXhRj.jpg)
 
