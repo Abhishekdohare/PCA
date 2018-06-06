@@ -4,8 +4,8 @@ Principal component analysis (PCA) is a statistical procedure that uses an ortho
 
 ## How to use
 
-1. Download the code in the zip format
-2. Unzip the file
+1. Download the code in the zip format from "Clone or Download" button above
+2. Decompress the file in the desktop
 3. Open extracted R package in R Studio
 
 ## License
